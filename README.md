@@ -1,5 +1,7 @@
 # Projeto Portfólio
 
+### Este projeto é uma versão alternativa do original, criada para fins pessoais. O projeto original com todas as seções está disponível em: <a align="center" href="https://mila-hella.github.io/portfolio_mirela_barbosa/" target="_blank">Portfólio - Mirela Barbosa</a>
+
 <hr>
 <br>
 
