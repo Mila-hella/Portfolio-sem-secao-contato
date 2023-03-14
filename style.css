@@ -67,11 +67,6 @@
 	background-color: #ECD8F2;
 }
 
-.contactIcon{
-	font-size: 56px;
-	color: #622C44;
-}
-
 .text-center {
 	font-family: 'Raleway', sans-serif;
 }
@@ -96,7 +91,7 @@ p {
 	-webkit-backdrop-filter: blur(8px);
 }
 
-#sobre, #servicos, #portfolio, #portfolio2, #contato {
+#sobre, #servicos, #portfolio {
 	padding-top: 5rem;
 	padding-bottom: 5rem;
 }
